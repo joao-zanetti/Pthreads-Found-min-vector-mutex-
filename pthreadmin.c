@@ -1,3 +1,7 @@
+/*
+    Developed by João Zanetti
+    https://github.com/joao-zanetti
+*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <pthread.h>
